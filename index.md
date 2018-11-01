@@ -54,6 +54,7 @@ layout: home
 - [岡山城のテックカンファレンスに行ってきました – catatsuy – Medium](https://medium.com/@catatsuy/%E5%B2%A1%E5%B1%B1%E5%9F%8E%E3%81%AE%E3%83%86%E3%83%83%E3%82%AF%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-16572fa70f7a)
 - [岡山城天守閣でライトニングトークして来ました \- あいつの日誌β](http://okamuuu.hatenablog.com/entry/2018/09/30/112959)
 - [y8 in 城へ参加してきました \- アルパカ三銃士](https://codehex.hateblo.jp/entry/2018/10/01/233330)
+- [岡山城で行われた「Y8 in 城」カンファレンスに足を運びました \#shiro929 – こえむの編集後記](https://www.koemu.com/blog/2018/10/31/shiro929/)
 
 ## その他
 
